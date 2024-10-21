@@ -42,8 +42,10 @@ Your automated test/script should cover the following user flows:
 
 **Submission:**
 
-- Submit your code in a Git repository (e.g., GitHub, GitLab, Bitbucket).
+- Submit your code in a Git repository (e.g., GitHub, GitLab, Bitbucket) and share with us.
 - Include a README file in your repository with instructions on how to run your test.
+
+**Time Duration:** 1 week
 
 **Evaluation Criteria:**
 
